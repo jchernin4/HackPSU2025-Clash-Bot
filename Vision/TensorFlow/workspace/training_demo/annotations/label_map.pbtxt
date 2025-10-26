@@ -1,0 +1,475 @@
+item {
+    name: "0_Elixer",
+    id: 1,
+    display_name: "0_Elixer"
+}
+item {
+    name: "10_Elixer",
+    id: 2,
+    display_name: "10_Elixer"
+}
+item {
+    name: "2_Elixer",
+    id: 3,
+    display_name: "2_Elixer"
+}
+item {
+    name: "3_Elixer",
+    id: 4,
+    display_name: "3_Elixer"
+}
+item {
+    name: "4_Elixer",
+    id: 5,
+    display_name: "4_Elixer"
+}
+item {
+    name: "6_Elixer",
+    id: 6,
+    display_name: "6_Elixer"
+}
+item {
+    name: "7_Elixer",
+    id: 7,
+    display_name: "7_Elixer"
+}
+item {
+    name: "8_Elixer",
+    id: 8,
+    display_name: "8_Elixer"
+}
+item {
+    name: "Archer_Troop",
+    id: 9,
+    display_name: "Archer_Troop"
+}
+item {
+    name: "Archers_Card",
+    id: 10,
+    display_name: "Archers_Card"
+}
+item {
+    name: "Archers_Loading",
+    id: 11,
+    display_name: "Archers_Loading"
+}
+item {
+    name: "Archers_Next",
+    id: 12,
+    display_name: "Archers_Next"
+}
+item {
+    name: "Archers_Placing",
+    id: 13,
+    display_name: "Archers_Placing"
+}
+item {
+    name: "Arrows_Card",
+    id: 14,
+    display_name: "Arrows_Card"
+}
+item {
+    name: "Arrows_In_Hand",
+    id: 15,
+    display_name: "Arrows_In_Hand"
+}
+item {
+    name: "Arrows_Loading",
+    id: 16,
+    display_name: "Arrows_Loading"
+}
+item {
+    name: "Arrows_Placing",
+    id: 17,
+    display_name: "Arrows_Placing"
+}
+item {
+    name: "Battle_Button",
+    id: 18,
+    display_name: "Battle_Button"
+}
+item {
+    name: "Bridge",
+    id: 19,
+    display_name: "Bridge"
+}
+item {
+    name: "Cannon_Card",
+    id: 20,
+    display_name: "Cannon_Card"
+}
+item {
+    name: "Cannon_Troop",
+    id: 21,
+    display_name: "Cannon_Troop"
+}
+item {
+    name: "Clan_Button",
+    id: 22,
+    display_name: "Clan_Button"
+}
+item {
+    name: "Current_Gems",
+    id: 23,
+    display_name: "Current_Gems"
+}
+item {
+    name: "Current_Gold",
+    id: 24,
+    display_name: "Current_Gold"
+}
+item {
+    name: "Current_Level",
+    id: 25,
+    display_name: "Current_Level"
+}
+item {
+    name: "Deck_Button",
+    id: 26,
+    display_name: "Deck_Button"
+}
+item {
+    name: "Elixer_Bar",
+    id: 27,
+    display_name: "Elixer_Bar"
+}
+item {
+    name: "Emote",
+    id: 28,
+    display_name: "Emote"
+}
+item {
+    name: "Empty_Card",
+    id: 29,
+    display_name: "Empty_Card"
+}
+item {
+    name: "Empty_Chest",
+    id: 30,
+    display_name: "Empty_Chest"
+}
+item {
+    name: "Enemy_Archer_Troop",
+    id: 31,
+    display_name: "Enemy_Archer_Troop"
+}
+item {
+    name: "Enemy_Arrows_Troop",
+    id: 32,
+    display_name: "Enemy_Arrows_Troop"
+}
+item {
+    name: "Enemy_Cannon_Troop",
+    id: 33,
+    display_name: "Enemy_Cannon_Troop"
+}
+item {
+    name: "Enemy_Giant_Troop",
+    id: 34,
+    display_name: "Enemy_Giant_Troop"
+}
+item {
+    name: "Enemy_Goblin_Hut_Troop",
+    id: 35,
+    display_name: "Enemy_Goblin_Hut_Troop"
+}
+item {
+    name: "Enemy_Goblin_Troop",
+    id: 36,
+    display_name: "Enemy_Goblin_Troop"
+}
+item {
+    name: "Enemy_Ice_Golem_Troop",
+    id: 37,
+    display_name: "Enemy_Ice_Golem_Troop"
+}
+item {
+    name: "Enemy_Ice_Spirit_Troop",
+    id: 38,
+    display_name: "Enemy_Ice_Spirit_Troop"
+}
+item {
+    name: "Enemy_Ice_Wizard_Troop",
+    id: 39,
+    display_name: "Enemy_Ice_Wizard_Troop"
+}
+item {
+    name: "Enemy_King_Tower",
+    id: 40,
+    display_name: "Enemy_King_Tower"
+}
+item {
+    name: "Enemy_Knight_Troop",
+    id: 41,
+    display_name: "Enemy_Knight_Troop"
+}
+item {
+    name: "Enemy_Musketeer_Troop",
+    id: 42,
+    display_name: "Enemy_Musketeer_Troop"
+}
+item {
+    name: "Enemy_Princess_Tower",
+    id: 43,
+    display_name: "Enemy_Princess_Tower"
+}
+item {
+    name: "Enemy_Skeleton_Troop",
+    id: 44,
+    display_name: "Enemy_Skeleton_Troop"
+}
+item {
+    name: "Enemy_Snowball_Troop",
+    id: 45,
+    display_name: "Enemy_Snowball_Troop"
+}
+item {
+    name: "Enemy_Spear_Goblin_Troop",
+    id: 46,
+    display_name: "Enemy_Spear_Goblin_Troop"
+}
+item {
+    name: "Enemy_Witch_Troop",
+    id: 47,
+    display_name: "Enemy_Witch_Troop"
+}
+item {
+    name: "Fireball_Card",
+    id: 48,
+    display_name: "Fireball_Card"
+}
+item {
+    name: "Fireball_Loading",
+    id: 49,
+    display_name: "Fireball_Loading"
+}
+item {
+    name: "Fireball_Next",
+    id: 50,
+    display_name: "Fireball_Next"
+}
+item {
+    name: "Fireball_Placing",
+    id: 51,
+    display_name: "Fireball_Placing"
+}
+item {
+    name: "Fireball_Troop",
+    id: 52,
+    display_name: "Fireball_Troop"
+}
+item {
+    name: "Giant_Card",
+    id: 53,
+    display_name: "Giant_Card"
+}
+item {
+    name: "Giant_In_Hand",
+    id: 54,
+    display_name: "Giant_In_Hand"
+}
+item {
+    name: "Giant_Loading",
+    id: 55,
+    display_name: "Giant_Loading"
+}
+item {
+    name: "Giant_Next",
+    id: 56,
+    display_name: "Giant_Next"
+}
+item {
+    name: "Giant_Placing",
+    id: 57,
+    display_name: "Giant_Placing"
+}
+item {
+    name: "Giant_Troop",
+    id: 58,
+    display_name: "Giant_Troop"
+}
+item {
+    name: "Hog_Rider_Card",
+    id: 59,
+    display_name: "Hog_Rider_Card"
+}
+item {
+    name: "Hog_Rider_Troop",
+    id: 60,
+    display_name: "Hog_Rider_Troop"
+}
+item {
+    name: "Ice_Golem_Card",
+    id: 61,
+    display_name: "Ice_Golem_Card"
+}
+item {
+    name: "Ice_Golem_Troop",
+    id: 62,
+    display_name: "Ice_Golem_Troop"
+}
+item {
+    name: "Ice_Spirit_Card",
+    id: 63,
+    display_name: "Ice_Spirit_Card"
+}
+item {
+    name: "King_Tower",
+    id: 64,
+    display_name: "King_Tower"
+}
+item {
+    name: "Knight_Card",
+    id: 65,
+    display_name: "Knight_Card"
+}
+item {
+    name: "Knight_Loading",
+    id: 66,
+    display_name: "Knight_Loading"
+}
+item {
+    name: "Knight_Next",
+    id: 67,
+    display_name: "Knight_Next"
+}
+item {
+    name: "Knight_Placing",
+    id: 68,
+    display_name: "Knight_Placing"
+}
+item {
+    name: "Knight_Troop",
+    id: 69,
+    display_name: "Knight_Troop"
+}
+item {
+    name: "Level_Up_Chests",
+    id: 70,
+    display_name: "Level_Up_Chests"
+}
+item {
+    name: "Mini_Pekka_Card",
+    id: 71,
+    display_name: "Mini_Pekka_Card"
+}
+item {
+    name: "Mini_Pekka_In_Hand",
+    id: 72,
+    display_name: "Mini_Pekka_In_Hand"
+}
+item {
+    name: "Mini_Pekka_Loading",
+    id: 73,
+    display_name: "Mini_Pekka_Loading"
+}
+item {
+    name: "Mini_Pekka_Next",
+    id: 74,
+    display_name: "Mini_Pekka_Next"
+}
+item {
+    name: "Mini_Pekka_Troop",
+    id: 75,
+    display_name: "Mini_Pekka_Troop"
+}
+item {
+    name: "Minion_Troop",
+    id: 76,
+    display_name: "Minion_Troop"
+}
+item {
+    name: "Minions_Card",
+    id: 77,
+    display_name: "Minions_Card"
+}
+item {
+    name: "Minions_Loading",
+    id: 78,
+    display_name: "Minions_Loading"
+}
+item {
+    name: "Musketeer_Card",
+    id: 79,
+    display_name: "Musketeer_Card"
+}
+item {
+    name: "Musketeer_In_Hand",
+    id: 80,
+    display_name: "Musketeer_In_Hand"
+}
+item {
+    name: "Musketeer_Loading",
+    id: 81,
+    display_name: "Musketeer_Loading"
+}
+item {
+    name: "Musketeer_Next",
+    id: 82,
+    display_name: "Musketeer_Next"
+}
+item {
+    name: "Musketeer_Troop",
+    id: 83,
+    display_name: "Musketeer_Troop"
+}
+item {
+    name: "News",
+    id: 84,
+    display_name: "News"
+}
+item {
+    name: "Options",
+    id: 85,
+    display_name: "Options"
+}
+item {
+    name: "Pass_Royale",
+    id: 86,
+    display_name: "Pass_Royale"
+}
+item {
+    name: "Princess_Tower",
+    id: 87,
+    display_name: "Princess_Tower"
+}
+item {
+    name: "River",
+    id: 88,
+    display_name: "River"
+}
+item {
+    name: "Shop_Button",
+    id: 89,
+    display_name: "Shop_Button"
+}
+item {
+    name: "Silver_Chest",
+    id: 90,
+    display_name: "Silver_Chest"
+}
+item {
+    name: "Skeleton_Card",
+    id: 91,
+    display_name: "Skeleton_Card"
+}
+item {
+    name: "Social",
+    id: 92,
+    display_name: "Social"
+}
+item {
+    name: "Time_Left",
+    id: 93,
+    display_name: "Time_Left"
+}
+item {
+    name: "Tournament_Button",
+    id: 94,
+    display_name: "Tournament_Button"
+}
+item {
+    name: "Tropy_Count",
+    id: 95,
+    display_name: "Tropy_Count"
+}
